@@ -1,0 +1,5 @@
+{
+  "name": "L'Orquestra Màgica",
+  "description": "Una aplicació interactiva perquè els alumnes de 5è de primària descobreixin els instruments de l'orquestra, les seves famílies i curiositats, amb l'ajuda d'un director virtual impulsat per IA.",
+  "requestFramePermissions": []
+}
